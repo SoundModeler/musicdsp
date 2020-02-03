@@ -1,7 +1,7 @@
 Formant filter
 ==============
 
-- **Author or source:** Alex
+- **Author or source:** Alex@kritov.ru
 - **Created:** 2002-08-02 18:26:59
 
 
